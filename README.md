@@ -10,12 +10,15 @@
 
 <img align="right" width="200" height="200" style="border-radius: 50%; object-fit: cover;" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm5jc2x5cGNlZzJhMmdlbzhwbHQycWsya2tzNGFhbWRkZTAyb2NocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/200w.gif" />
 
-🎓 **BCA Student** passionate about building real-world web applications  
-🐍 Focused on **Python & Django backend development** 
+### 🎓 BCA Student passionate about building real-world web applications   
+
+
+🐍 Focused on **Python & Django backend development**  
 🌍 Love turning ideas into working, scalable web solutions  
 📚 Constantly learning and exploring modern web technologies  
 💡 Strong problem-solving skills and team collaboration experience  
-🤝 Open to collaboration on open-source projects   
+🤝 Open to collaboration on open-source projects  
+ 
 
 <br clear="right" />
 
