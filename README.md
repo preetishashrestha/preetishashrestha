@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Preetisha Shrestha
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Python+%26+Django+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Python+%26+Django+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
